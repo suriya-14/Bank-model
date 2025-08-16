@@ -40,7 +40,11 @@ __________________________________________________
 3. Exit
 
 Enter your choice: 2
-Enter your name: Suriya
+
+Enter your name: abc
+
 Enter your password: ****
-Enter your email: suriya@example.com
+
+Enter your email: abc@example.com
+
 Account created successfully.
