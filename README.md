@@ -27,7 +27,9 @@ Built using **Object-Oriented Programming (OOP)** principles, it’s a great beg
 ## 📂 Project Structure
 Bank-model/
 │
+
 ├── bank.py # Main source code for the project
+
 ├── README.md # Project documentation
 
 
