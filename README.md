@@ -32,7 +32,7 @@ Bank-model/
 
 
 ---
-##Sample output
+## Sample output
 Welcome to Our Bank
 __________________________________________________
 1. Login
